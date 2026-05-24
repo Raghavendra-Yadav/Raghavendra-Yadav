@@ -87,7 +87,7 @@ I'm an AI Engineer and Full-Stack Developer with 2+ years of production experien
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Raghavendra-Yadav&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=Raghavendra-Yadav&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 <br><br>
 
@@ -103,8 +103,8 @@ I'm an AI Engineer and Full-Stack Developer with 2+ years of production experien
 
 ## 🐍 Contribution Snake
 
-<!-- To activate: go to Actions tab → enable workflows → run "Generate Snake" manually once -->
-<!-- After the action runs, the SVG will be published to the output branch automatically -->
+<!-- ACTION REQUIRED: Create .github/workflows/snake.yml in this repo, then go to Actions tab and run it.
+     Once it runs, the SVG is published to the output branch and the animation below becomes live. -->
 
 <div align="center">
 
@@ -120,13 +120,13 @@ I'm an AI Engineer and Full-Stack Developer with 2+ years of production experien
 
 ## ✍️ Latest Content
 
-<!-- YOUTUBE CARDS — powered by DenverCoder1/github-readme-youtube-cards -->
+<!-- YOUTUBE CARDS powered by DenverCoder1/github-readme-youtube-cards -->
 <!-- BEGIN YOUTUBE-CARDS -->
 <!-- END YOUTUBE-CARDS -->
 
 <br>
 
-<!-- MEDIUM POSTS — powered by gautamkrishnar/blog-post-workflow -->
+<!-- MEDIUM POSTS powered by gautamkrishnar/blog-post-workflow -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
