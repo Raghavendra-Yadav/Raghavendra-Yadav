@@ -103,8 +103,8 @@ I'm an AI Engineer and Full-Stack Developer with 2+ years of production experien
 
 ## 🐍 Contribution Snake
 
-<!-- ACTION REQUIRED: Create .github/workflows/snake.yml and run it from the Actions tab.
-     Once the action runs, the SVG is published to the output branch and the animation below becomes live. -->
+<!-- ACTION REQUIRED: Create .github/workflows/snake.yml and trigger it from the Actions tab.
+     Once it runs, the SVG is generated in the output branch and the animation appears here. -->
 
 <div align="center">
 
@@ -136,9 +136,17 @@ I'm an AI Engineer and Full-Stack Developer with 2+ years of production experien
 
 <div align="center">
 
-| [![Nord](https://github-readme-stats.vercel.app/api/pin/?username=Raghavendra-Yadav&repo=Nord&theme=tokyonight&hide_border=true)](https://github.com/Raghavendra-Yadav/Nord) | [![TrackMyJob](https://github-readme-stats.vercel.app/api/pin/?username=Raghavendra-Yadav&repo=TrackMyJob&theme=tokyonight&hide_border=true)](https://github.com/Raghavendra-Yadav/TrackMyJob) |
-| --- | --- |
-| [![my-portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Raghavendra-Yadav&repo=my-portfolio&theme=tokyonight&hide_border=true)](https://github.com/Raghavendra-Yadav/my-portfolio) | [![weekpayv2](https://github-readme-stats.vercel.app/api/pin/?username=Raghavendra-Yadav&repo=weekpayv2&theme=tokyonight&hide_border=true)](https://github.com/Raghavendra-Yadav/weekpayv2) |
+### 🤖 [Nord — AI-Powered Life OS](https://github.com/Raghavendra-Yadav/Nord)
+> Full-stack life OS with Google Gemini AI for weekly coaching, habit tracking, finances & deep work. React · Node.js · MongoDB
+
+### 💼 [TrackMyJob — Job Application Tracker](https://github.com/Raghavendra-Yadav/TrackMyJob)
+> Track and manage job applications end-to-end. TypeScript · Full-Stack
+
+### 🌐 [my-portfolio — Developer Portfolio](https://github.com/Raghavendra-Yadav/my-portfolio)
+> Personal portfolio site showcasing projects, skills & experience. TypeScript · Next.js
+
+### 💸 [weekpayv2 — Weekly Pay Calculator](https://github.com/Raghavendra-Yadav/weekpayv2)
+> Streamlined pay calculation app built with TypeScript. TypeScript · Full-Stack
 
 </div>
 
