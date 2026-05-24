@@ -103,8 +103,8 @@ I'm an AI Engineer and Full-Stack Developer with 2+ years of production experien
 
 ## 🐍 Contribution Snake
 
-<!-- ACTION REQUIRED: Create .github/workflows/snake.yml in this repo, then go to Actions tab and run it.
-     Once it runs, the SVG is published to the output branch and the animation below becomes live. -->
+<!-- ACTION REQUIRED: Create .github/workflows/snake.yml and run it from the Actions tab.
+     Once the action runs, the SVG is published to the output branch and the animation below becomes live. -->
 
 <div align="center">
 
@@ -136,11 +136,9 @@ I'm an AI Engineer and Full-Stack Developer with 2+ years of production experien
 
 <div align="center">
 
-[![Nord](https://github-readme-stats.vercel.app/api/pin/?username=Raghavendra-Yadav&repo=Nord&theme=tokyonight&hide_border=true)](https://github.com/Raghavendra-Yadav/Nord)
-[![TrackMyJob](https://github-readme-stats.vercel.app/api/pin/?username=Raghavendra-Yadav&repo=TrackMyJob&theme=tokyonight&hide_border=true)](https://github.com/Raghavendra-Yadav/TrackMyJob)
-
-[![my-portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Raghavendra-Yadav&repo=my-portfolio&theme=tokyonight&hide_border=true)](https://github.com/Raghavendra-Yadav/my-portfolio)
-[![weekpayv2](https://github-readme-stats.vercel.app/api/pin/?username=Raghavendra-Yadav&repo=weekpayv2&theme=tokyonight&hide_border=true)](https://github.com/Raghavendra-Yadav/weekpayv2)
+| [![Nord](https://github-readme-stats.vercel.app/api/pin/?username=Raghavendra-Yadav&repo=Nord&theme=tokyonight&hide_border=true)](https://github.com/Raghavendra-Yadav/Nord) | [![TrackMyJob](https://github-readme-stats.vercel.app/api/pin/?username=Raghavendra-Yadav&repo=TrackMyJob&theme=tokyonight&hide_border=true)](https://github.com/Raghavendra-Yadav/TrackMyJob) |
+| --- | --- |
+| [![my-portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Raghavendra-Yadav&repo=my-portfolio&theme=tokyonight&hide_border=true)](https://github.com/Raghavendra-Yadav/my-portfolio) | [![weekpayv2](https://github-readme-stats.vercel.app/api/pin/?username=Raghavendra-Yadav&repo=weekpayv2&theme=tokyonight&hide_border=true)](https://github.com/Raghavendra-Yadav/weekpayv2) |
 
 </div>
 
