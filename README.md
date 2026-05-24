@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Waving%20Hand.png" height="40" alt="waving hand" />
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="waving hand" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=AI+Engineer+%26+Full-Stack+Developer;Building+RAG+Systems%2C+Agents+%26+LLM+Products;Documenting+the+Build+on+YouTube+%26+Medium)](https://git.io/typing-svg)
 
@@ -103,10 +103,16 @@ I'm an AI Engineer and Full-Stack Developer with 2+ years of production experien
 
 ## 🐍 Contribution Snake
 
+<!-- To activate: go to Actions tab → enable workflows → run "Generate Snake" manually once -->
+<!-- After the action runs, the SVG will be published to the output branch automatically -->
+
 <div align="center">
 
-<!-- ACTION REQUIRED: Enable the Snake GitHub Action — see post-paste checklist below -->
-<img src="https://raw.githubusercontent.com/Raghavendra-Yadav/Raghavendra-Yadav/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Raghavendra-Yadav/Raghavendra-Yadav/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Raghavendra-Yadav/Raghavendra-Yadav/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Raghavendra-Yadav/Raghavendra-Yadav/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
@@ -115,16 +121,12 @@ I'm an AI Engineer and Full-Stack Developer with 2+ years of production experien
 ## ✍️ Latest Content
 
 <!-- YOUTUBE CARDS — powered by DenverCoder1/github-readme-youtube-cards -->
-<!-- Add the workflow file described in the post-paste checklist, then the cards will auto-populate here -->
-
 <!-- BEGIN YOUTUBE-CARDS -->
 <!-- END YOUTUBE-CARDS -->
 
 <br>
 
 <!-- MEDIUM POSTS — powered by gautamkrishnar/blog-post-workflow -->
-<!-- Add the workflow file described in the post-paste checklist, then the posts will auto-populate here -->
-
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
@@ -134,11 +136,11 @@ I'm an AI Engineer and Full-Stack Developer with 2+ years of production experien
 
 <div align="center">
 
-[![REPO_1](https://github-readme-stats.vercel.app/api/pin/?username=Raghavendra-Yadav&repo=REPO_1&theme=tokyonight&hide_border=true)](https://github.com/Raghavendra-Yadav/REPO_1)
-[![REPO_2](https://github-readme-stats.vercel.app/api/pin/?username=Raghavendra-Yadav&repo=REPO_2&theme=tokyonight&hide_border=true)](https://github.com/Raghavendra-Yadav/REPO_2)
+[![Nord](https://github-readme-stats.vercel.app/api/pin/?username=Raghavendra-Yadav&repo=Nord&theme=tokyonight&hide_border=true)](https://github.com/Raghavendra-Yadav/Nord)
+[![TrackMyJob](https://github-readme-stats.vercel.app/api/pin/?username=Raghavendra-Yadav&repo=TrackMyJob&theme=tokyonight&hide_border=true)](https://github.com/Raghavendra-Yadav/TrackMyJob)
 
-[![REPO_3](https://github-readme-stats.vercel.app/api/pin/?username=Raghavendra-Yadav&repo=REPO_3&theme=tokyonight&hide_border=true)](https://github.com/Raghavendra-Yadav/REPO_3)
-[![REPO_4](https://github-readme-stats.vercel.app/api/pin/?username=Raghavendra-Yadav&repo=REPO_4&theme=tokyonight&hide_border=true)](https://github.com/Raghavendra-Yadav/REPO_4)
+[![my-portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Raghavendra-Yadav&repo=my-portfolio&theme=tokyonight&hide_border=true)](https://github.com/Raghavendra-Yadav/my-portfolio)
+[![weekpayv2](https://github-readme-stats.vercel.app/api/pin/?username=Raghavendra-Yadav&repo=weekpayv2&theme=tokyonight&hide_border=true)](https://github.com/Raghavendra-Yadav/weekpayv2)
 
 </div>
 
